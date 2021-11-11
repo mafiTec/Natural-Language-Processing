@@ -2,6 +2,6 @@
 
 - <b>skills used:</b> sklearn, pandas, numpy, matplotlib, Seaborn, nltk, stopwords, PorterStemmer, CountVectorizer, MultinomialNB, TfidfVectorizer, 
 
-- <b>project Description:</b>fake-news
+- <b>project Description:</b>fake-news Text Data Mining
 
     
