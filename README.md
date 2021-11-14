@@ -11,5 +11,10 @@
 - <b>skills used:</b> sklearn, pandas, numpy, matplotlib, Seaborn, csr_matrix, NearestNeighbors,
 
 - <b>project Description:</b>BX-Users,BX-Books, BX-Book-Rating 
-
     
+ # Content_Based_Recommendation_System
+
+
+- <b>skills used:</b>  pandas, numpy, sklearn, TfidfVectorizer, cosine_similarity,  
+
+- <b>project Description:</b>tmdb_5000_credits, tmdb_5000_movies
